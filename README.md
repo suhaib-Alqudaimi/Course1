@@ -2,6 +2,6 @@
 Get Course
 
 
-#~~Project Notes~~
+##Project Notes
 
 **suhaib**
